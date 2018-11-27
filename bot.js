@@ -86,17 +86,3 @@ if (message.content === '!spam') {
 
 client.login(process.env.TOKEN);// لا تغير فيها شيء
 client2.login(process.env.TOKEN2);// لا تغير فيها شيء
-client3.login(process.env.TOKEN3);// لا تغير فيها شيء
-client4.login(process.env.TOKEN4);// لا تغير فيها شيء
-client5.login(process.env.TOKEN5);// لا تغير فيها شيء
-client6.login(process.env.TOKEN6);// لا تغير فيها شيء
-client7.login(process.env.TOKEN7);// لا تغير فيها شيء
-client8.login(process.env.TOKEN8);// لا تغير فيها شيء
-client9.login(process.env.TOKEN9);// لا تغير فيها شيء
-client10.login(process.env.TOKEN10);// لا تغير فيها شيء
-client11.login(process.env.TOKEN11);// لا تغير فيها شيء
-client12.login(process.env.TOKEN12);// لا تغير فيها شيء
-client13.login(process.env.TOKEN13);// لا تغير فيها شيء
-client14.login(process.env.TOKEN14);// لا تغير فيها شيء
-client15.login(process.env.TOKEN15);// لا تغير فيها شيء
-client16.login(process.env.TOKEN16);// لا تغير فيها شيء
